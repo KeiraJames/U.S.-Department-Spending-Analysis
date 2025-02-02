@@ -16,7 +16,8 @@ The findings are visualized in an **interactive Tableau dashboard**, making comp
 3. **Visualization**: Created an interactive Tableau dashboard for easy exploration of spending patterns.  
 
 ## Interactive Dashboard  
-🔗 **[View the Tableau Dashboard](https://public.tableau.com/views/USDepartmentSpendingAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**  
+🔗 **[Check out the Tableau Dashboard!](https://public.tableau.com/views/USDepartmentSpendingAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**  
+
 
 ## Preview  
 ![Dashboard Preview](Dashboard.pdf)  
@@ -26,7 +27,3 @@ The findings are visualized in an **interactive Tableau dashboard**, making comp
 - **Jupyter Notebook**
 - **Tableau**
 - **Git & GitHub**  
-
----
-
-This Markdown structure effectively explains your analysis, methodology, and impact while linking to your interactive Tableau dashboard and preview image. Let me know if you need any modifications! 🚀
