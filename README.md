@@ -20,7 +20,8 @@ The findings are visualized in an **interactive Tableau dashboard**, making comp
 
 
 ## Preview  
-![Dashboard Preview](Dashboard.pdf)  
+![Dashboard Preview] 
+<img width="773" alt="Screenshot 2025-02-01 at 7 40 21 PM" src="https://github.com/user-attachments/assets/1ae04c23-7bac-4a6c-8341-9c45f1392a4a" />
 
 ## Tools Used  
 - **Python (Pandas, NumPy)**
